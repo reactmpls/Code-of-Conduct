@@ -40,7 +40,9 @@ In addition to the other guidelines listed here, we ask that all participants be
 
 Please do not hesitate to reach out to us with any questions, comments or concerns. The event organizers’ contact information is as follows:
 
-[contact info]
+reactmpls@gmail.com
+or
+@nogs and @Nathan Haines on the react mpls slack.
 
 ## Procedure for Handling Harassment
 
